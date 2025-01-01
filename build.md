@@ -1,5 +1,7 @@
 Music-Extended (arm64-v8a): 7.16.53  
 Music-Extended (arm-v7a): 7.16.53  
+Reddit-Extended: 2024.22.0  
+TikTok: 36.5.4  
 YouTube-Extended: 19.44.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
